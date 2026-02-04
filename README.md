@@ -1,8 +1,7 @@
-# Agencia-Viajes-SQLAlchemy-ejercicio-
+# Agencia-Viajes-SQLAlchemy-ejercicio
 ejercicio de Sistema de gestión de reservas de viajes con Python y ORM (IDE usado: Pycharm)
 
 # Agencia de Viajes (Backend/Consola)
-
 Sistema de gestión de reservas desarrollado en Python, enfocado en la persistencia de datos y relaciones complejas mediante ORM.
 
 ## Características Técnicas
